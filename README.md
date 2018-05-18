@@ -1,4 +1,4 @@
-:) This project is about Motion-detection technology for dahua-tech software competition.
+:) This project is about Motion-detection technology without any commercial or competition object.
 
 Three steps for compiling and run:
 1. cmake .
